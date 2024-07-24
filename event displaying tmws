@@ -1,1 +1,35 @@
-event displaying tmws
+<center>
+    <h1>Register Form</h1>
+<form>
+<table>
+    <tr>
+        <td>Name</td>
+        <td><input type="text" placeholder="Enter Name"></td>
+    </tr>
+    <tr>
+    <td>Age</td>
+    <td><input type="number" placeholder="Enter Age"></td>    
+    </tr>
+    <tr>
+   <td>address</td> 
+   <td><input type="text" placeholder="Enter your address" width="15"></td>
+   </tr>
+   <tr>
+    <td>Department</td>
+    <td>
+     <select>
+        <option>Python progrm</option>
+        <option>MS EXCEL</option>
+        <option>SQL</option>
+        <option>Github</option>
+        <option>powerpoint</option>
+</select>   
+    </td> 
+
+   </tr>    
+<td><input type="submit"</td>
+<td><input type="Reset"></td>
+    </tr>
+</table>    
+</form>
+</center>
